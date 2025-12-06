@@ -1,2 +1,6 @@
-# BinDisassembler
-A simple C++ Bin to Hex Disassembler. The perfect anthithesys to BinAssembler. Useful for transforming files into their Hex format equivalent.
+# Description
+A simple C++ Bin to Hex Disassembler.
+# Usage
+### ./BinDisassembler \<input file name\> \<output file name\><br>
+# Compilation
+### gcc -o BinDisassembler BinDisassembler.cpp
